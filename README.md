@@ -1,0 +1,1 @@
+Este codigo es capaz de recorrer matrices cuadradas y buscar la diagonal con mayor serie de 1s segudidos, cuando la matriz no es cuadrada manda un error. manda un error también cuadno la matriz no es binaria  
